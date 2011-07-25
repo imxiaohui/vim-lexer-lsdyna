@@ -4,12 +4,18 @@ LS-DYNA keyword input file lexer for vim
 
 ## Attributions
 
-Maintainer:   Tim Hartman <tbhartman@gmail.com>
-Contributer:  Jorgen Bergstom <jorgen@PolymerFEM.com>
-              Carl Osterwisch <osterwischc@asme.org>
-Comment:      This file originated from Jorgen Bergstom and may be found at:
-                  http://polymerfem.com/polymer_files/vim.zip
-              Modified from ABAQUS by Carl Osterwisch.
+Maintainer:
+* Tim Hartman <tbhartman@gmail.com>
+
+Contributers:
+* Jorgen Bergstom <jorgen@PolymerFEM.com>
+* Carl Osterwisch <osterwischc@asme.org>
+
+This file originated from Jorgen Bergstom and may be found at:
+
+    http://polymerfem.com/polymer_files/vim.zip
+
+Modified from ABAQUS by Carl Osterwisch.
 
 ## License
 
